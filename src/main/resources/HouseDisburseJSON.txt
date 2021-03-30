@@ -1,0 +1,134 @@
+[
+  {
+    "bioGuideID": "A000376",
+    "office": "2019 HON. COLIN Z. ALLRED",
+    "category": "FRANKED MAIL",
+    "payee": "UNITED STATES POSTAL SERVICE",
+    "startDate": "12/1/2019",
+    "endDate": "12/31/2019",
+    "purpose": "FRANKED MAIL",
+    "AMOUNT": 114.6,
+    "YEAR": "2020"
+  },
+  {
+    "bioGuideID": "A000367",
+    "office": "2020 HON. JUSTIN AMASH",
+    "category": "FRANKED MAIL",
+    "payee": "UNITED STATES POSTAL SERVICE",
+    "startDate": "6/1/2020",
+    "endDate": "6/30/2020",
+    "purpose": "FRANKED MAIL",
+    "AMOUNT": 13,
+    "YEAR": "2020"
+  },
+  {
+    "bioGuideID": "A000367",
+    "office": "2020 HON. JUSTIN AMASH",
+    "category": "PERSONNEL COMPENSATION",
+    "payee": "GABLER JASON-MICHAEL J.",
+    "startDate": "6/29/2020",
+    "endDate": "7/24/2020",
+    "purpose": "DISTRICT OFFICE PAID INTERN -",
+    "AMOUNT": 693.33,
+    "YEAR": "2020"
+  },
+  {
+    "bioGuideID": "A000369",
+    "office": "2020 HON. MARK E. AMODEI",
+    "category": "PERSONNEL COMPENSATION",
+    "payee": "BALSINGER DEBRA J.",
+    "startDate": "8/3/2020",
+    "endDate": "9/30/2020",
+    "purpose": "CONSTITUENT SERVICES REP",
+    "AMOUNT": 9666.67,
+    "YEAR": "2020"
+  },
+  {
+    "bioGuideID": "A000369",
+    "office": "2020 HON. MARK E. AMODEI",
+    "category": "PERSONNEL COMPENSATION",
+    "payee": "BROOKE KENNETH J",
+    "startDate": "7/1/2020",
+    "endDate": "9/30/2020",
+    "purpose": "SENIOR LEGISLATIVE ASSISTANT",
+    "AMOUNT": 13749.99,
+    "YEAR": "2020"
+  },
+  {
+    "bioGuideID": "A000369",
+    "office": "2020 HON. MARK E. AMODEI",
+    "category": "PERSONNEL COMPENSATION",
+    "payee": "DIERKER RYAN T",
+    "startDate": "7/1/2020",
+    "endDate": "9/30/2020",
+    "purpose": "LEGISLATIVE ASSISTANT",
+    "AMOUNT": 12500.01,
+    "YEAR": "2020"
+  },
+  {
+    "bioGuideID": "A000377",
+    "office": "2020 HON. KELLY ARMSTRONG",
+    "category": "FRANKED MAIL",
+    "payee": "UNITED STATES POSTAL SERVICE",
+    "startDate": "6/1/2020",
+    "endDate": "6/30/2020",
+    "purpose": "FRANKED MAIL",
+    "AMOUNT": 87.93,
+    "YEAR": "2020"
+  },
+  {
+    "bioGuideID": "A000377",
+    "office": "2020 HON. KELLY ARMSTRONG",
+    "category": "PERSONNEL COMPENSATION",
+    "payee": "BEEBE ERIN G",
+    "startDate": "7/1/2020",
+    "endDate": "9/30/2020",
+    "purpose": "STAFF ASSISTANT",
+    "AMOUNT": 10791.66,
+    "YEAR": "2020"
+  },
+  {
+    "bioGuideID": "A000375",
+    "office": "2020 HON. JODEY C. ARRINGTON",
+    "category": "PERSONNEL COMPENSATION",
+    "payee": "CHAMPION JOSEPH M",
+    "startDate": "7/1/2020",
+    "endDate": "9/30/2020",
+    "purpose": "LEGISLATIVE ASSISTANT",
+    "AMOUNT": 10749.99,
+    "YEAR": "2020"
+  },
+  {
+    "bioGuideID": "A000375",
+    "office": "2020 HON. JODEY C. ARRINGTON",
+    "category": "PERSONNEL COMPENSATION",
+    "payee": "CIAPCIAK MARY E",
+    "startDate": "8/10/2020",
+    "endDate": "9/30/2020",
+    "purpose": "DEPUTY CHIEF OF STAFF/LEGISLAT",
+    "AMOUNT": 12750,
+    "YEAR": "2020"
+  },
+  {
+    "bioGuideID": "A000375",
+    "office": "2020 HON. JODEY C. ARRINGTON",
+    "category": "PERSONNEL COMPENSATION",
+    "payee": "DAVIS MELANIE F.",
+    "startDate": "7/1/2020",
+    "endDate": "9/30/2020",
+    "purpose": "SHARED EMPLOYEE",
+    "AMOUNT": 6250,
+    "YEAR": "2020"
+  },
+  {
+    "bioGuideID": "A000375",
+    "office": "2020 HON. JODEY C. ARRINGTON",
+    "category": "PERSONNEL COMPENSATION",
+    "payee": "HAMMONDS MCKENZIE J",
+    "startDate": "7/1/2020",
+    "endDate": "7/31/2020",
+    "purpose": "REGIONAL MANAGER",
+    "AMOUNT": 3583.33,
+    "YEAR": "2020"
+  }
+]
